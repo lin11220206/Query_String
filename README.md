@@ -5,9 +5,9 @@
 需求：Ubuntu or Linux Mint
 
 #### 安裝nodejs
-`sudo apt-get update`
-`sudo apt-get install nodejs`
-`sudo apt-get install build-essential`
+`sudo apt-get update` </br>
+`sudo apt-get install nodejs` </br>
+`sudo apt-get install build-essential` </br>
 
 #### 安裝npm
 `sudo apt-get install npm`
