@@ -18,9 +18,9 @@
 `npm install`
 
 #### 執行伺服器
-`npm start`    (預設port為8080)
+`npm start`    (預設port為8080) </br>
 or
 `PORT=[number] npm start` (自行設定port)
 
-網頁將設於 http://localhost:port/
+網頁將執行於 http://localhost:port/
     
